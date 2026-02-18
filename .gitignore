@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы настроек IDE (если вдруг появятся)
+.vscode/
+.idea/
+
+# Системные файлы Windows (если вдруг появятся)
+Desktop.ini
+Thumbs.db
